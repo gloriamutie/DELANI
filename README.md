@@ -6,7 +6,7 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 
 ### Author
 
-    Gloria mutie.
+    Gloria mwongeli mutie.
 
 #### Screenshot
 
@@ -14,7 +14,7 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 
 To get a local copy of the site:
 
-git clone "https://gloriamutie.github.io/DELANI-STUDIO/"
+git clone "https://github.com/gloriamutie/DELANI"
 
 Extract the cloned file.
 
@@ -24,6 +24,6 @@ Launch index.html file.
 
 ###### License
 
-   MIT License
+ MIT License
 
-Copyright (c) 2020 gloria mutie.
+Copyright (c) 2022 gloria mutie.
